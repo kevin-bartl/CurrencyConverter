@@ -2,7 +2,7 @@
 # https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
 parameters:
     locale: 'en'
-    fixerApiKey: 'getYourOwnKeyAtFixer.io'
+    fixerApiKey: 'd0f166b80f027f3a30202ac43a900e24'
 
 services:
     # default configuration for services in *this* file
